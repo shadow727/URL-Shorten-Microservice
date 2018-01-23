@@ -1,0 +1,27 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  text-align:center;
+}
+
+h2 {
+  text-align:center;
+}
+
+.inputArea{
+  margin-top: 50px;
+}
+.direction {
+  margin:5px auto;
+  font-size: 1.2em;
+  text-align:center;
+}
+
+#URLText {
+  margin-left: 41%;
+  font-size: 1.2em;
+}
+
